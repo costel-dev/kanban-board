@@ -6,15 +6,15 @@ html {
 }
 
 :root {
-  --column-1: #a2622d;
-  --column-2: #1b6161;
-  --column-3: #248224;
-  --column-4: #a22d22;
+  --column-1: #ce5c00;
+  --column-2: #1b4b61;
+  --column-3: #01ad35;
+  --column-4: #990202;
 }
 
 body {
   margin: 0;
-  background: url("./board.jpg");
+  background: url("./bg1.jpg");
   background-size: cover;
   background-position: 50% 60%;
   background-attachment: fixed;
