@@ -2,7 +2,9 @@
 
 ## Description
 
-    The main goal of this project is to showcase Drag&Drop API. Being a devoted user of Trello Board I allways was amazed about the magic behind it, and in order to keep track of all my tasks and projects I allways wanted to build my own Kanban Board.
+    The main goal of this project is to showcase Drag&Drop API. Being a devoted user of Trello Board
+    I allways was amazed about the magic behind it, and in order to keep track of all my tasks
+    and projects I allways wanted to build my own Kanban Board.
     Things that I tackle in this project:
 
 - CRUD Operations(Create, Read, Update, Delete)
